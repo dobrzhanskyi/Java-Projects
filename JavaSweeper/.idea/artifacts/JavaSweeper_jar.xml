@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaSweeper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaSweeper_jar</output-path>
+    <root id="archive" name="JavaSweeper.jar">
+      <element id="module-output" name="JavaSweeper" />
+    </root>
+  </artifact>
+</component>
